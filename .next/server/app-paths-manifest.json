@@ -1,0 +1,5 @@
+{
+  "/blog/page": "app/blog/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/conference/page": "app/conference/page.js"
+}

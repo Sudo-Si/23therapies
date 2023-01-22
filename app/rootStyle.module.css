@@ -1,0 +1,22 @@
+.homeLink {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 10px;
+  margin-left: 10px;
+}
+.menuBarLinks {
+  color: #bdfef2;
+  text-decoration: none;
+  padding: 10px 10px;
+  margin-left: 10px;
+}
+.nav{
+
+  width:100vw;
+  display: flex;
+  align-items: center;
+  height: 20px;
+  padding: 20px;
+ 
+  justify-content: space-around;
+}
